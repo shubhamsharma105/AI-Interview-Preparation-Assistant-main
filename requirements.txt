@@ -1,0 +1,76 @@
+flask
+openai
+pandas
+matplotlib
+sqlalchemy
+PyPDF2
+speechrecognition
+
+Python Developer
+List vs. Tuple: Lists are mutable (their items can be changed, added, or removed) and defined with square brackets [].
+ Tuples are immutable (read-only once created) and defined with parentheses ().
+
+Inheritance: An Object-Oriented Programming (OOP) concept where a child class inherits attributes and methods from a parent class,
+ facilitating code reuse.
+
+Polymorphism: The ability of different objects to respond to the same method call in their own specific way (e.g., method overriding).
+
+Exception Handling: A mechanism using try, except, else, and finally blocks to catch and handle runtime errors 
+without crashing the program.
+
+Decorators: Functions that wrap another function to extend or modify its behavior without permanently altering its source code 
+(syntax: @decorator_name).
+
+File Handling: The process of creating, reading, updating, and closing files stored on disk using functions like open() 
+or context managers (with statements).
+
+Generator: A function that yields values lazily one at a time using the yield keyword, 
+allowing memory-efficient processing of large datasets without storing everything in memory.
+
+List Comprehension: A concise, readable syntax for creating a new list by applying an expression to each item in an existing iterable 
+(e.g., [x * 2 for x in numbers]).
+
+Data Analyst
+Normalization: The process of structuring a relational database to reduce data redundancy and improve data integrity 
+(e.g., applying 1NF, 2NF, 3NF).
+
+Data Cleaning: The process of detecting and correcting inaccurate, duplicate, incomplete, or improperly formatted entries in a dataset.
+
+Pivot Table: An interactive data summarization tool used to aggregate, reorganize, 
+and analyze tabular data without altering the original sheet.
+
+SQL JOIN: A clause used to combine rows from two or more tables based on a common related column (e.g., INNER JOIN, LEFT JOIN).
+
+Data Visualization: The graphical representation of data using visual tools (charts, graphs, maps) to highlight trends, outliers,
+ and key patterns.
+
+ETL (Extract, Transform, Load): A data pipeline process where data is Extracted from source systems,
+ Transformed into a clean format, and Loaded into a target database or warehouse.
+
+Primary Key: A unique identifier for a specific row in a database table; it cannot contain duplicate or null values.
+
+Data Validation: The process of verifying that incoming data adheres to specified data types, formats,
+ and business rules before processing or storing.
+
+Machine Learning Engineer
+Overfitting: A situation where a model learns the training data and its noise too well, 
+causing high accuracy on training data but poor generalization to new data.
+
+Underfitting: A situation where a model is too simple to capture the underlying structure of the data,
+ resulting in poor performance on both training and test data.
+
+Cross-Validation: A resampling method (e.g., K-Fold) used to evaluate model performance by splitting data into multiple folds
+ and iteratively training/testing across them.
+
+Random Forest: An ensemble machine learning algorithm that builds multiple decision trees and averages their outputs
+ (or takes a majority vote) to produce a prediction.
+
+Gradient Descent: An optimization algorithm used to minimize a model's error (loss function) by iteratively taking steps in the direction
+ of steepest descent.
+
+Feature Engineering: The practice of selecting, transforming, or creating new input variables from raw data to boost model accuracy.
+
+Bias and Variance: Bias measures error from overly simple assumptions (causing underfitting). Variance measures error from oversensitivity to small fluctuations in training data (causing overfitting).
+
+Neural Network: A computing system inspired by biological brain structures,
+ consisting of layered nodes (neurons) connected by learnable weights and activation functions.

@@ -216,7 +216,7 @@ This project is created for educational and learning purposes.
 
 ## Author
 
-**Your Name**
+**Name**
 
 GitHub: `https://github.com/shubhamsharma105`
 
